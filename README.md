@@ -1,2 +1,2 @@
 # hello-world
-Repositori de prova
+Estic fent el tutorial i un puto commit de prova.
